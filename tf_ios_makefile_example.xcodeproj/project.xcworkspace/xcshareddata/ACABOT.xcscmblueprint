@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42C7B0A4F0FF14962BBC453651132225C84871B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DEF827AEE61008D72BA753A95234A28088662AAB" : 9223372036854775807,
+    "42C7B0A4F0FF14962BBC453651132225C84871B6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EDA91DF8-CC7F-47BD-B731-941D5F583536",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DEF827AEE61008D72BA753A95234A28088662AAB" : "..\/..\/..",
+    "42C7B0A4F0FF14962BBC453651132225C84871B6" : "ACABOT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ACABOT",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ACABOT.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jkleeeeeee\/ACABOT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42C7B0A4F0FF14962BBC453651132225C84871B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tensorflow\/tensorflow",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEF827AEE61008D72BA753A95234A28088662AAB"
+    }
+  ]
+}

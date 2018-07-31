@@ -1,0 +1,46 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42C7B0A4F0FF14962BBC453651132225C84871B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DEF827AEE61008D72BA753A95234A28088662AAB" : 9223372036854775807,
+    "42C7B0A4F0FF14962BBC453651132225C84871B6" : 9223372036854775807
+  },
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4ECD543E-217A-4B37-A33A-67B53F071F02",
+=======
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2964B44F-5101-4651-8697-4F30B074E927",
+>>>>>>> Stashed changes
+=======
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45908F17-84F5-465E-973F-757611F5F374",
+>>>>>>> Stashed changes
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DEF827AEE61008D72BA753A95234A28088662AAB" : "..\/..\/..",
+    "42C7B0A4F0FF14962BBC453651132225C84871B6" : "ACABOT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tf_ios_makefile_example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tf_ios_makefile_example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jkleeeeeee\/ACABOT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42C7B0A4F0FF14962BBC453651132225C84871B6"
+    },
+    {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tensorflow\/tensorflow.git",
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tensorflow\/tensorflow",
+>>>>>>> Stashed changes
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tensorflow\/tensorflow",
+>>>>>>> Stashed changes
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEF827AEE61008D72BA753A95234A28088662AAB"
+    }
+  ]
+}
